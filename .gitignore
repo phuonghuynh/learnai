@@ -1,0 +1,4 @@
+course2/data/MNIST
+.idea
+.azureml
+simple_nn.pth
